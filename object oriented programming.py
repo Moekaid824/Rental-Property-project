@@ -5,7 +5,7 @@ class Property:
         self.down_payment = down_payment
         self.closure_costs = closure_costs
         self.renovation_costs = renovation_costs 
-        self.monthly_rental_income = monthly_rental_income #self.all variables listed above after __init__
+        self.monthly_rental_income = monthly_rental_income #self.all variables listed above after __init__.
         self.fixed_costs = fixed_costs
         self.variable_costs = variable_costs
 
